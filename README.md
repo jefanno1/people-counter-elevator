@@ -28,15 +28,6 @@ Ensure you have the necessary video files (`people.mp4`, `mask.png`) and the YOL
 
 Link to download resource : https://drive.google.com/drive/folders/1ZDJZdV03lZNdnx8huZ8UW--M6l_rsiaU?usp=sharing
 
-## 💻 Usage
-1. Clone the repository to your local machine.
-2. Navigate to the project directory.
-3. Run the `people_counter_main.py` script using Python:
-```bash
-python people_counter_main.py
-```
-This will start the people counting application, and the processed video will be saved to a new file (`person_tracker_result.mp4`).
-
 ## 📁Project Structure
 ```markdown
 people-counter-elevator/
@@ -53,6 +44,17 @@ people-counter-elevator/
 ├── people_counter_main.py
 └── requirements.txt
 ```
+
+## 💻 Usage
+1. Clone the repository to your local machine.
+2. Navigate to the project directory.
+3. Run the `people_counter_main.py` script using Python:
+```bash
+python people_counter_main.py
+```
+This will start the people counting application, and the processed video will be saved to a new file (`person_tracker_result.mp4`).
+
+
 ## 🤝 Contributing
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository, make your changes, and submit a pull request.
 
