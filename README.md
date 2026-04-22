@@ -19,12 +19,30 @@ The People Counter Application is a computer vision-based project designed to tr
 * ultralytics for loading and utilizing the YOLO model
 * CSV and OS for logging and file system operations
 
-## 📦 Installation
-To install the required dependencies, run the following command:
+## 🛠️ Installation & Usage
+
+### 1. Clone the Repository
+
 ```bash
-pip install opencv-python numpy cvzone ultralytics
+git clone https://github.com/jefanno1/people-counter-elevator.git
+cd people-counter-elevator
 ```
-Ensure you have the necessary video files (`people.mp4`, `mask.png`) and the YOLO model (`yolov8n.pt`) in the correct directories.
+
+### 2. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Run the Detector
+
+Make sure your 'people_counter_main.py' and your test video are in the correct directory. (following the project structure)
+
+```bash
+python people_counter_main.py
+```
+
+---
 
 Link to download resource : https://drive.google.com/drive/folders/1ZDJZdV03lZNdnx8huZ8UW--M6l_rsiaU?usp=sharing
 
