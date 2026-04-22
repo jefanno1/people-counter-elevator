@@ -63,8 +63,3 @@ This project is licensed under the MIT License.
 
 ## 📬 Contact
 For any questions or concerns, please don't hesitate to reach out to us.
-
-## 💖 Thanks Message
-A huge thank you to everyone who has contributed to this project! Your support and contributions are greatly appreciated.
-
-This is written by [readme.ai](https://readme-generator-phi.vercel.app/)
